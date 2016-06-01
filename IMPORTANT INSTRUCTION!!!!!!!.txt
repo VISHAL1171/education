@@ -1,0 +1,14 @@
+
+Save this folder either in htdocs in xampp or www in wamp or on other relative folder in the localhos you are using
+Open http://localhost:82/EP/public/login
+Use email:- vishal02@gmail.com
+passwor:-vishal
+you can actually see this in the all the relative files where i gave this user email and password
+1.this will open the main page
+2.use port 80 or 82 according to your convience
+3.all other files are in their rlative folders
+4.Just open it in sublime or  atom it will be easy to see all files
+5.add any thing u think necessary
+6.any suggestion will be appericiated
+7.for now on let's keep updating this repository
+8.Mantain your backup
